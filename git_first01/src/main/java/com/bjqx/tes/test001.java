@@ -19,5 +19,7 @@ public class test001 {
 		
 		
 		System.out.println("wafjsljfsjlÌì(¡Ño¡Ñ)¡­www");
+		
+		String str1="work006";
 	}
 }
