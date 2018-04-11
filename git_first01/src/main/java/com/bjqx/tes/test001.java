@@ -14,7 +14,7 @@ public class test001 {
 	
 	
 	private void test(){
-		
+		String str2="work005";
 		
 		System.out.println("wafjsljfsjlÌì(¡Ño¡Ñ)¡­www");
 		
