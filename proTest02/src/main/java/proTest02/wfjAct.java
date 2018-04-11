@@ -8,7 +8,7 @@ public class wfjAct {
 		
 		
 		
-		
+		System.out.println("00001");
 	}
 
 }
