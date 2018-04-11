@@ -16,4 +16,8 @@ public class test001 {
 	private void test(){
 		System.out.println("wafjsljfsjlÌì(¡Ño¡Ñ)¡­www");
 	}
+	
+	private void test(){
+		System.out.println("test()");
+	}
 }
