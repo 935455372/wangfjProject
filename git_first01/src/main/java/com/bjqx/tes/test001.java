@@ -21,5 +21,15 @@ public class test001 {
 		String str1="work006";
 		String str44="work006";
 		String str66="work006";
+		String str55="work006";
+		str55="work006";
+		str55="work006";
+		str55="work006";
+		str55="work006";
+		str55="work006";
+		str55="work006";
+		str55="work006";
+		str55="work006";
+		str55="work006";
 	}
 }
