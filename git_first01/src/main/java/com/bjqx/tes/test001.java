@@ -14,11 +14,6 @@ public class test001 {
 	
 	
 	private void test(){
-		
-		
-		
-		
-		String aa=null;
-		System.out.println("Ìì(¡Ño¡Ñ)¡­www");
+		System.out.println("wafjsljfsjlÌì(¡Ño¡Ñ)¡­www");
 	}
 }
