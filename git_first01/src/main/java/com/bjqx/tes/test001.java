@@ -18,7 +18,7 @@ public class test001 {
 		
 		
 		
-		¸¨µ¼¸¨µ¼
+		String aa=null;
 		System.out.println("Ìì(¡Ño¡Ñ)¡­www");
 	}
 }
