@@ -3,6 +3,6 @@ package com.wfj;
 public class test01 {
 
 	public static void main(String[] args) {
-		System.out.println("-----------");
+		System.out.println("------dd-----");
 	}
 }
