@@ -8,4 +8,8 @@ public class test001 {
 		System.out.println("我也改了----");
 		System.out.println("============================");
 	}
+	
+	private void test(){
+		System.out.println("test()");
+	}
 }
