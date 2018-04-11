@@ -18,7 +18,7 @@ public class test001 {
 		
 		
 		
-		
+		¸¨µ¼¸¨µ¼
 		System.out.println("Ìì(¡Ño¡Ñ)¡­www");
 	}
 }
