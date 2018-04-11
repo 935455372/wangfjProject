@@ -5,7 +5,7 @@ public class wfjAct {
 		// TODO Auto-generated method stub
 
 		
-		
+		System.out.println("00001");
 	}
 
 }
