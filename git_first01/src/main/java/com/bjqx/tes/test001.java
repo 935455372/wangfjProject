@@ -14,6 +14,6 @@ public class test001 {
 	
 	
 	private void test(){
-		System.out.println("Ìì(¡Ño¡Ñ)¡­");
+		System.out.println("Ìì(¡Ño¡Ñ)¡­www");
 	}
 }
