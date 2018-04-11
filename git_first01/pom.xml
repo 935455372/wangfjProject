@@ -3,4 +3,114 @@
   <groupId>wfj</groupId>
   <artifactId>git_first01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  
+  
+   <dependencies>
+	
+	<!-- junit 中使用spring的test -->
+	<dependency>
+		<groupId>org.springframework</groupId>
+		<artifactId>spring-test</artifactId>
+		<version>3.2.0.RELEASE</version>
+	</dependency>
+	
+	<!-- springmvc的包   {spring 的包最好放在上面，并且放在一起}-->
+	<dependency>
+		<groupId>org.springframework</groupId>
+		<artifactId>spring-webmvc</artifactId>
+		<version>3.2.0.RELEASE</version>
+	</dependency>
+	
+  
+  	<!-- spring 的核心包 -->
+ 	<dependency>
+		<groupId>org.springframework</groupId>
+		<artifactId>spring-core</artifactId>
+		<version>3.2.0.RELEASE</version>
+	</dependency>
+	
+	<!-- mybatis的包 -->
+  	<dependency>
+		<groupId>org.mybatis</groupId>
+		<artifactId>mybatis</artifactId>
+		<version>3.1.1</version>
+	</dependency>
+  
+  	<!-- mybatis整合spring包 -->
+  	<dependency>
+		<groupId>org.mybatis</groupId>
+		<artifactId>mybatis-spring</artifactId>
+		<version>1.1.1</version>
+	</dependency>
+	
+	
+	
+	<!-- mysql驱动包 -->
+	<dependency>
+		<groupId>mysql</groupId>
+		<artifactId>mysql-connector-java</artifactId>
+		<version>5.1.21</version>
+	</dependency>
+	
+	<!-- junit包 -->
+	<dependency>
+		<groupId>junit</groupId>
+		<artifactId>junit</artifactId>
+		<version>4.11</version>
+		<scope>test</scope><!-- 只在测试时使用 -->
+	</dependency>
+  
+  	<!-- druid的数据库连接池 -->
+  	<dependency>
+		<groupId>com.alibaba</groupId>
+		<artifactId>druid</artifactId>
+		<version>0.2.9</version>
+	</dependency>
+	
+	<!-- aspectj 也是spring必需的包 -->
+	<dependency>
+		<groupId>org.aspectj</groupId>
+		<artifactId>aspectjweaver</artifactId>
+		<version>1.7.1</version>
+	</dependency>
+	
+  	
+  	<!-- springmvc 中配置json -->
+  	<dependency>
+		<groupId>org.codehaus.jackson</groupId>
+		<artifactId>jackson-mapper-asl</artifactId>
+		<version>1.9.11</version>
+	</dependency>
+  	
+  	<!-- springmvc配置文件中，处理文件上传的包 -->
+  	<dependency>
+		<groupId>commons-fileupload</groupId>
+		<artifactId>commons-fileupload</artifactId>
+		<version>1.2.2</version>
+	</dependency>
+  
+  	<!-- servlet 的包，request这些对象都是servlet中的 -->
+  	<dependency>
+	    <groupId>javax.servlet</groupId>
+	    <artifactId>servlet-api</artifactId>
+	    <version>2.4</version>
+	    <scope>provided</scope>
+	</dependency>
+	
+	<!-- log4j 的包 -->
+	<dependency>
+		<groupId>log4j</groupId>
+		<artifactId>log4j</artifactId>
+		<version>1.2.17</version>
+	</dependency>
+	
+	<!-- fastjson 的包 -->
+	<dependency>
+		<groupId>com.alibaba</groupId>
+		<artifactId>fastjson</artifactId>
+		<version>1.1.26</version>
+	</dependency>
+  
+  </dependencies>
 </project>
